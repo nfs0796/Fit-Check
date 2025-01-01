@@ -17,7 +17,7 @@ Fitcheck is a decentralized app that connects users with ideal trainers worldwid
 ## Features  
 - **Anonymous Chat**: Communicate securely and privately with trainers.  
 - **Global Access**: Find and hire trainers from diverse backgrounds and specialties.  
-- **Personalized Tokens**: Utilize tokens on the AIA Chain for seamless hiring and transactions.  
+- **Personalized Tokens**: Utilize tokens on the TBNB Chain for seamless hiring and transactions.  
 - **Smart Contract Integration**: Ensure secure and transparent agreements between users and trainers.  
 - **Custom Workout Plans**: Receive tailored fitness programs to meet your individual goals.  
 - **NFT Marketplace**: Access an exclusive marketplace to trade fitness-related NFTs, including workout plans, achievements, and unique trainer services.  
@@ -36,7 +36,7 @@ Fitcheck is a decentralized app that connects users with ideal trainers worldwid
 ## 🚀 Technologies Used
 
 - *Blockchain*: Built on [TBNB Blockchain ].
-- *Smart Contracts*: Powers the ODY token and transaction mechanisms.
+- *Smart Contracts*: Powers the FIT token and transaction mechanisms.
 - *Frontend Framework*: [React, Next.js, etc.]
 - *Backend*: [Node.js, Flask, etc.]
 - *Storage*: Decentralized storage solutions like IPFS
